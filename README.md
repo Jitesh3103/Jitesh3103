@@ -228,14 +228,14 @@ State Board | 81.12%
 ### 1. IBM SkillsBuild – Web Developer
 **Organization:** IBM
 
-- Credential ID: 55C0364AB015
+
 - IBM SkillsBuild Presents: How to Become a Web Developer.
 - Web Development for Beginners.
 
 ### 2. Cybersecurity
 **Organization:** AICERTs
 
-- Credential ID: CE04Q00221
+
 - Topics: Cybersecurity and Data Privacy.
 - Master the Future of Cybersecurity.
 
@@ -243,13 +243,12 @@ State Board | 81.12%
 **Organization:** Forage
 
 - British Airways Data Science Job Simulation.
-- Credential ID: E9GrJj3EYyX4MxXQv.
 - Skills: Data Science and Data Analysis.
 
 ### 4. Web Development Basics
 **Organization:** IBM
 
-- Credential ID: MDL-261.
+
 - Skills: HTML5, CSS3, and Web Development.
 
 ### 5. Data Analysis Bootcamp: Master Data Science Skills
@@ -279,20 +278,6 @@ State Board | 81.12%
 
 - Participated in Hackathon-2K23.
 - Created a chatbot using Python.
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jitesh3103&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitesh3103&layout=compact&theme=github_dark&hide_border=true"/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Jitesh3103&theme=github-dark-blue&hide_border=true"/>
-
-</div>
 
 ---
 
