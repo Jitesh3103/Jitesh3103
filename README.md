@@ -1,8 +1,9 @@
 <div align="center">
-## Hi there 👋
+  
+
 
 # Naik Jitesh Mahabaleshwar
-
+## Hi there 👋
 ### CSE (Data Science)Graduate | Full-Stack Developer | Software Engineer
 
 Passionate about building web applications, developing software solutions, exploring Artificial Intelligence, and working with data-driven technologies.
